@@ -1,0 +1,108 @@
+
+.contain-back {
+    background-color: lightblue;
+}
+
+.heading1 {
+    font-family: "italic";
+    color: gold;
+    background-image: linear-gradient(#fa70e1, #64fab4);
+    border-style: solid;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 15px;
+}
+
+.heading {
+    text-align: center;
+    font-family: "italic";
+}
+
+.heading3 {
+    text-align: center;
+    font-family: "italic";
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+.sep {
+    height: 50px;
+    width: 50px;
+}
+
+.main-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 15px;
+    margin: 90px;
+    margin-top: 40px;
+}
+
+.main-card1 {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 15px;
+}
+
+.main-card2 {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 15px;
+}
+
+.button {
+    text-align: center;
+    padding: 55px;
+    margin: 40px;
+}
+
+.button2 {
+    text-align: center;
+}
+
+.button1 {
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.second {
+    margin-top: 140px;
+}
+
+.text-card {
+    text-align: center;
+    font-size: 20px;
+}
+
+.card-heading {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.iare-image {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
